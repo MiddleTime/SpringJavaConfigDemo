@@ -4,7 +4,7 @@
     <groupId>com.mycompany</groupId>
     <artifactId>spring-java-config-demo</artifactId>
     <version>1.0</version>
-    <build>
+<!--    <build>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -23,7 +23,7 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>
+    </build>-->
     <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>
